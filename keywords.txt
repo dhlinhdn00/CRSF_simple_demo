@@ -1,0 +1,8 @@
+Keywords:
+Application Vulnerabilities
+Session Vulnerabilities
+Session Hijacking
+Snifffing - Man-in-the-middle - Eavesdropping
+Weak Authentication
+Weak Encryption Algorithms
+DoS and DDoS
